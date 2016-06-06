@@ -1,2 +1,2 @@
 # Factory-Pattern
-Factory Pattern is implemented in java
+Factory Pattern is implemented in java language
